@@ -354,7 +354,7 @@ bool hasSpoken = 0;
 float cursorY[9] = {};
 float animationSpeed = 0.01;
 
-int gameMode = 7;
+int gameMode = 1;
 
 int startMillis = 0;
 
